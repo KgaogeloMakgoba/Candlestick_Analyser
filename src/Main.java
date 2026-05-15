@@ -12,9 +12,9 @@ public class Main extends Application {
 
 	        Scene scene = new Scene(view.getRoot(), 1100, 750);
 	        
-	        /*scene.getStylesheets().add(
+	        scene.getStylesheets().add(
 	            getClass().getResource("/styles/app.css").toExternalForm()
-	        );*/
+	        );
 	        
 
 	        stage.setTitle("Candlestick Pattern Analyser");
