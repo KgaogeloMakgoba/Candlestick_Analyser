@@ -1,5 +1,4 @@
-Candlestick Pattern Analyser
-It is a desktop application built in Java and JavaFX that reads OHLC (Open, High, Low, Close) candlestick data from a CSV file, detects classic candlestick patterns, and tells you how many times each pattern appeared and how often the next candle confirmed the expected move.
+Candlestick Pattern Analyser is a desktop application built in Java and JavaFX that reads OHLC (Open, High, Low, Close) candlestick data from a CSV file, detects classic candlestick patterns, and tells you how many times each pattern appeared and how often the next candle confirmed the expected move.
 
 What it does
 
