@@ -58,4 +58,7 @@ Data
 
 The .csv files are downloaded from this website https://www.londonstrategicedge.com/datasets and the application supports other .csv with the same format.
 
+To run the JavaFX application,the following must be included in the Virtual Machine arguements
+--module-path "C:\javafx-sdk-25\lib" --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media --enable-native-access=javafx.graphics --enable-native-access=javafx.media
+
 
